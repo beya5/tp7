@@ -1,0 +1,39 @@
+{
+    "parks": [
+      {
+        "id": 1,
+        "name": "Dream Park",
+        "photo": "parks/dream.jpg",
+        "nbLikes": 580,
+        "openingDate": "2021-09-09",
+        "hours": "8h00 - 18h00",
+        "location": "Tabarka"
+      },
+      {
+        "id": 2,
+        "name": "Hannibal Park",
+        "photo": "parks/hannibal.jpg",
+        "nbLikes": 8604,
+        "openingDate": "2020-12-17",
+        "hours": "10h00 - 22h00",
+        "location": "Sfax"
+      },
+      {
+        "id": 4,
+        "name": "Alyssa Park",
+        "photo": "parks/alyssa.jpg",
+        "nbLikes": 423,
+        "openingDate": "2023-08-15",
+        "hours": "8h00 - 23h00",
+        "location": "Tunis"
+      },
+      {
+        "id": 5,
+        "name": "Amilcar Park",
+        "photo": "parks/amilcar.jpg",
+        "nbLikes": 4263,
+        "openingDate": "2021-06-23",
+        "location": "Nabeul"
+      }
+    ]
+  }

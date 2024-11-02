@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Stylo",
+      "price": 0.85
+    },
+    {
+      "id": "2",
+      "name": "cartable",
+      "price": 100.8
+    },
+    {
+      "id": "3",
+      "name": "trousse",
+      "price": 10.6
+    },
+    {
+      "id": "4",
+      "name": "tablier",
+      "price": 23.8
+    },
+    {
+      "id": 38,
+      "name": "livre",
+      "price": 35.6
+    },
+    {
+      "id": 74,
+      "name": "livre",
+      "price": 35.6
+    },
+    {
+      "id": 42,
+      "name": "livre",
+      "price": 35.6
+    }
+  ]
+}

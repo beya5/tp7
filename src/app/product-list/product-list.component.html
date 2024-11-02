@@ -1,0 +1,17 @@
+ <!-- <ul>
+    @for(p of products; track p.id){
+    <li>
+        {{p.id}} -- {{p.name}} -- {{p.price}}
+    </li>    
+    }
+    <button (click)="onAddProduct()">Ajouter</button>
+
+</ul> -->
+<ul>
+    @for(p of lesproduits$|async; track p.id){
+        <li>
+            {{p.id}} -- {{p.name}} -- {{p.price}}
+        </li>    
+        }
+        <button (click)="onAddProduct()">Ajouter</button>
+</ul>
